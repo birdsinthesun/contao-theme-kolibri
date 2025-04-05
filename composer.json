@@ -3,7 +3,7 @@
   "type": "contao-theme",
   "homepage": "https://birdsinthesun.de/kolibri-theme",
   "version": "1.0.0",
-  "license": "GPL",
+  "license": "MIT",
   "require": {
     "contao/calendar-bundle": "5.5.*",
     "contao/comments-bundle": "5.5.*",
